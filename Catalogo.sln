@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catalogo.Data", "Catalogo.D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catalogo.WebServise", "Catalogo.WebServise\Catalogo.WebServise.csproj", "{28717899-3193-425F-86FA-4E15263AEF9B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catalogo.Business", "Catalogo.Business\Catalogo.Business.csproj", "{05A4AA2D-020D-4FDB-974D-3D4DCC6C0FD5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{28717899-3193-425F-86FA-4E15263AEF9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28717899-3193-425F-86FA-4E15263AEF9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28717899-3193-425F-86FA-4E15263AEF9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05A4AA2D-020D-4FDB-974D-3D4DCC6C0FD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05A4AA2D-020D-4FDB-974D-3D4DCC6C0FD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05A4AA2D-020D-4FDB-974D-3D4DCC6C0FD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05A4AA2D-020D-4FDB-974D-3D4DCC6C0FD5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
